@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace .com with the live address after deploying
+Sitemap: https://games.shahnlabs.com/sitemap.xml
